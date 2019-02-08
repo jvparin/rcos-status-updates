@@ -2,10 +2,10 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-Being new to Venue, I initially had trouble building the project on my local machine due to dependency issues in the node modules \
-when npm installing. I solved this by deleting the node modules directory on my local repo and redoing the npm installation, and \
-it worked! I also had issues serving with gulp serve, but solved it by installing Python 2.7 on my local machine (some dependency \
-used Python 2.7 and not Python 3). I also looked at tutorials on the MEAN stack (e.g. https://www.djamware.com/post/5b00bb9180aca726dee1fd6d/mean-stack-angular-6-crud-web-application) \
+Being new to Venue, I initially had trouble building the project on my local machine due to dependency issues in the node modules
+when npm installing. I solved this by deleting the node modules directory on my local repo and redoing the npm installation, and
+it worked! I also had issues serving with gulp serve, but solved it by installing Python 2.7 on my local machine (some dependency
+used Python 2.7 and not Python 3). I also looked at tutorials on the MEAN stack (e.g. https://www.djamware.com/post/5b00bb9180aca726dee1fd6d/mean-stack-angular-6-crud-web-application)
 as I have never used this type of stack. I thought it was interesting how Mongoose can create schema models for Mongo instead of manually
 making the data models in MongoDB.
 
