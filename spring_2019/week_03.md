@@ -2,8 +2,7 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-After looking at possible issues to work on, I have been looking specifically at issue #498, which is adding the feature of organizing the courses into a list view instead of just the block view that it currently has. There is a similar feature for Submissions that I could replicate and take inspiration from for courses. To view the work I've been doing for this issue, please refer to the link to the branch I'm working in below:
-https://github.com/rcos/venue/tree/course-list-view
+After looking at possible issues to work on, I have been looking specifically at issue #498, which is adding the feature of organizing the courses into a list view instead of just the block view that it currently has. There is a similar feature for Submissions that I could replicate and take inspiration from for courses. To view the work I've been doing for this issue, please refer to the link to the branch I'm working on: https://github.com/rcos/venue/tree/course-list-view
 
 ## This Week's Plan
 
