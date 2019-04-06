@@ -12,7 +12,7 @@ This change would also affect the flow when a user clicks on the "New event assi
 
 > In this section, you can write about what you have planned for next week.
 
-After my accomplishments from last week, I plan to work on any feedback from the reviewer on the pull request for issue #518. 
+After my accomplishments from last week, I plan to work on any feedback from the reviewer on the pull request for issues #517 and #518. 
 I also plan to look at the other issues that I can work on before the semester ends. I can possibly try to work on the new issue
 that I mentioned above, but due to my lack of knowledge on this issue, this might take a while to do.
 
