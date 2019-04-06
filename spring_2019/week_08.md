@@ -4,8 +4,8 @@
 
 This week, I added the minor front end css fixes into the pull request for the "course-list-view" branch based on 
 the feedback given by the reviewer (Varun), so this should be good to go in terms of merging it into the dev branch.
-I also continued to work on issue #518 and finally was able to fix the issue. I made a pull request for this shown 
-at this link: 
+I also continued to work on issue #518 and finally was able to combine two forms onto one page. I made a pull request 
+for this shown with this link: 
 
 ## This Week's Plan
 
