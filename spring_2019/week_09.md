@@ -2,7 +2,7 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
-This week, I added a new issue that relates to changing the link for the "New Event Assignment" button to the assign-event page
+This week, I added a new issue (#530) that relates to changing the link for the "New Event Assignment" button to the assign-event page
 rather than the new-event page, which it originally does. I've been working on this issue and will continue to work on this issue
 this week.
 
