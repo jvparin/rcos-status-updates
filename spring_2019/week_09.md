@@ -11,7 +11,7 @@ this week.
 > In this section, you can write about what you have planned for next week.
 
 After my accomplishments from last week, I plan to work on any feedback from the reviewer on the pull request for issues #517 and #518. 
-I also plan to work on the new issue I made.
+I also plan to work on the new issue I made (#530) and work on the slides for the final presentation for Venue.
 
 ## Anything Blocking?
 
