@@ -13,7 +13,8 @@ this week.
 > In this section, you can write about what you have planned for next week.
 
 After my accomplishments from last week, I plan to work on any feedback from the reviewer on the pull request for issues #517 and #518. 
-I also will continue to work on issue (#530).
+I will also continue to work on issue (#530). Since this issue is related to issues #517 and #518, I can update the pull request made
+for those issues.
 
 ## Anything Blocking?
 
