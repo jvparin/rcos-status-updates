@@ -3,8 +3,9 @@
 > In this section, you can write about what you accomplished in the previous week.
 
 This week, I was working on issue (#530), but unfortunately, I still was not able to figure out how to do it.
-Thus, as a temporary logical front-end "fix", the "new event assignment" button is now changed to "Create New Event" 
-to match its current behavior (changes are in the Event User Flow Fixes pull request: https://github.com/rcos/venue/pull/529). 
+So, as a temporary logical front-end "fix", the "new event assignment" button is now changed to "Create New Event" 
+to match its current behavior and unneeded controllers were deleted 
+(these changes are in the Event User Flow Fixes pull request: https://github.com/rcos/venue/pull/529). 
 Ideally, it should still be called "new event assignment" button and changing its behavior to edit the section assignments 
 for that corresponding event that exists.
 
